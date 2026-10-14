@@ -7,6 +7,11 @@ Software, AI, mobile technology, networking, cybersecurity, and data work togeth
 
 ## Software
 
+Software is a set of programs and related instructions that tell a computer how to perform tasks. It includes operating systems, which manage hardware and support applications, and application software, which serves specific user needs. Software is created through design, programming, testing, release, and maintenance. It may run locally or be delivered online as software as a service (SaaS). Its development connects to other fields because software can use AI, run on mobile devices, communicate over networks, handle data, and require cybersecurity protections.
+
+Resource: Software - https://en.wikipedia.org/wiki/Software
+
+
 ## AI
 
 ## Mobile
