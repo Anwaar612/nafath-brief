@@ -48,4 +48,6 @@ Resource: Data Collection Methods and Tools for Research: — https://www.elvedi
 
 ## Misconception in My Track
 
+A common misconception is that software means only user-facing apps, such as games or word processors. Actually, software includes operating systems and related instructions that manage computer hardware and support applications. It is also built and maintained through stages such as design, programming, testing, release, and maintenance, and can run locally or be delivered online as a service. The 'Software' resource supports this correction in its opening section, which defines software and describes operating systems, application software, and the development process.
+
 ## Open Question
