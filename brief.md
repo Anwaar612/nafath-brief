@@ -24,7 +24,8 @@ Resource: Artificial intelligence - https://en.wikipedia.org/wiki/Artificial_int
 
 ## Mobile
 
-Mobile technology lets people access the internet and digital services while on the go through portable devices such as smartphones and tablets. It supports communication, information access, and activities such as mobile research, where people complete surveys or provide responses through apps. Mobile research can gather data quickly, use features such as location services, and work offline before syncing responses when internet access returns. Examples of mobile operating systems include Android and iOS.
+Mobile technology lets people access the internet and digital services while on the go through portable devices such as smartphones and tablets. It supports communication, information access, and activities such as mobile research, where people complete surveys or provide responses through apps. Mobile research can gather data quickly, use features such as location services, and work offline before syncing responses when internet access returns. Examples of mobile operating systems include Android and iOS.ATS requires secure HTTPS connections and strong transport encryption by default. If the app tries to connect to a plain HTTP endpoint, iOS blocks the connection unless an exception is configured. Use HTTPS for all services and avoid weakening ATS protections.
+
 
 Resource: Mobile Research: What Is It — https://www.questionpro.com/blog/mobile-research/
 
