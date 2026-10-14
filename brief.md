@@ -28,6 +28,10 @@ Resource: Mobile Research: What Is It — https://www.questionpro.com/blog/mobil
 
 ## Networking
 
+A computer network is a group of connected devices that communicate to exchange data and share resources. Devices such as computers, phones, and printers connect through wired links, like Ethernet, or wireless connections, such as Wi-Fi. Routers and switches direct data, which is sent in packets according to communication protocols. Networks enable services such as internet access, email, and file sharing, while security tools like firewalls help protect data and devices.
+
+Resource: Basics of Computer Networks — https://www.geeksforgeeks.org/computer-networks/basics-computer-networks/
+
 ## Cybersecurity
 
 ## Data
