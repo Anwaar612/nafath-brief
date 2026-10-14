@@ -14,6 +14,11 @@ Resource: Software - https://en.wikipedia.org/wiki/Software
 
 ## AI
 
+Artificial intelligence (AI) is the field of creating computer systems that can perform tasks associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. AI is used in search engines, chatbots, virtual assistants, autonomous vehicles, and content generation. Researchers use methods such as machine learning, neural networks, statistics, and logic. AI also draws on fields including mathematics, computer science, psychology, and linguistics. AI systems can make mistakes, so their reliability and ethical use are important considerations.
+
+Resource: Artificial intelligence - https://en.wikipedia.org/wiki/Artificial_intelligence
+
+
 ## Mobile
 
 ## Networking
