@@ -39,6 +39,7 @@ Resource: Basics of Computer Networks — https://www.geeksforgeeks.org/computer
 ## Cybersecurity
 
 Cybersecurity is the practice of protecting digital information, devices, and networks from threats. It involves technical skills, such as understanding code and network infrastructure, as well as critical thinking, problem-solving, communication, and ongoing learning. As more activities move online, cybersecurity professionals help organizations across many industries keep data safe and respond to evolving risks.
+Prompt injection is an attempt to manipulate an AI system through instructions in user input or retrieved content. Direct injection comes from a user’s message; indirect injection is hidden in external material, such as a webpage or document the AI reads. Reduce risk by treating retrieved content as untrusted data, limiting the assistant’s access and actions, and testing with adversarial prompts.
 
 Resource: Cybersecurity Resource Center - https://cybersecurityguide.org/resources/
 
