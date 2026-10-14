@@ -9,6 +9,8 @@ Software, AI, mobile technology, networking, cybersecurity, and data work togeth
 ## Software
 
 Software is a set of programs and related instructions that tell a computer how to perform tasks. It includes operating systems, which manage hardware and support applications, and application software, which serves specific user needs. Software is created through design, programming, testing, release, and maintenance. It may run locally or be delivered online as software as a service (SaaS). Its development connects to other fields because software can use AI, run on mobile devices, communicate over networks, handle data, and require cybersecurity protections.
+Increase the assistant’s public API MAJOR version when a change is incompatible with existing clients, such as removing or changing an endpoint, field, or required behavior. Increase the MINOR version when adding features in a backward-compatible way, and the PATCH version for backward-compatible bug fixes.
+
 
 Resource: Software - https://en.wikipedia.org/wiki/Software
 
