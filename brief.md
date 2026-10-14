@@ -47,6 +47,7 @@ Resource: Cybersecurity Resource Center - https://cybersecurityguide.org/resourc
 ## Data
 
 Data collection is the systematic gathering of information to answer research questions or test hypotheses. Researchers first determine what type of data they need—qualitative, such as interview responses, or quantitative, such as numerical measurements—and choose suitable methods. Primary data is collected firsthand through tools such as questionnaires, interviews, observations, or experiments. Secondary data comes from existing sources, including books and research articles. Careful collection helps reduce errors, though no method alone guarantees reliable findings.
+Anonymization irreversibly removes identifying details so a person cannot reasonably be identified; properly anonymized data is generally outside the scope of data-protection laws such as the GDPR. Pseudonymization replaces identifiers with codes, but the data can be re-identified using separately stored information. It remains personal data and is still subject to data-protection requirements.
 
 Resource: Data Collection Methods and Tools for Research: — https://www.elvedit.com/data-collection-methods-and-tools-for-research/
 
