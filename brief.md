@@ -32,7 +32,7 @@ Resource: Mobile Research: What Is It — https://www.questionpro.com/blog/mobil
 
 ## Networking
 
-A computer network is a group of connected devices that communicate to exchange data and share resources. Devices such as computers, phones, and printers connect through wired links, like Ethernet, or wireless connections, such as Wi-Fi. Routers and switches direct data, which is sent in packets according to communication protocols. Networks enable services such as internet access, email, and file sharing, while security tools like firewalls help protect data and devices.
+A computer network is a group of connected devices that communicate to exchange data and share resources. Devices such as computers, phones, and printers connect through wired links, like Ethernet, or wireless connections, such as Wi-Fi. Routers and switches direct data, which is sent in packets according to communication protocols. Networks enable services such as internet access, email, and file sharing, while security tools like firewalls help protect data and devices.IPv4 uses 32-bit addresses, while IPv6 uses 128-bit addresses and provides a vastly larger address space. IPv6 helps accommodate the growing number of phones, sensors, and other connected devices. The app and its services should support both IPv4 and IPv6 where needed.
 
 Resource: Basics of Computer Networks — https://www.geeksforgeeks.org/computer-networks/basics-computer-networks/
 
