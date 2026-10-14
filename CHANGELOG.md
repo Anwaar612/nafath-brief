@@ -9,3 +9,5 @@ e0dcc33 research: networking, cybersecurity, data
 b0c914b analysis: misconception and open question
 
 803eb3e revise: overview
+
+223861b changelog: record history
