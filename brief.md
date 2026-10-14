@@ -51,3 +51,6 @@ Resource: Data Collection Methods and Tools for Research: — https://www.elvedi
 A common misconception is that software means only user-facing apps, such as games or word processors. Actually, software includes operating systems and related instructions that manage computer hardware and support applications. It is also built and maintained through stages such as design, programming, testing, release, and maintenance, and can run locally or be delivered online as a service. The 'Software' resource supports this correction in its opening section, which defines software and describes operating systems, application software, and the development process.
 
 ## Open Question
+
+I would learn more about how software-as-a-service is secured and maintained after release. I’m especially interested in how developers protect user data, identify vulnerabilities, and respond to security incidents. I would also explore how teams test and deliver updates without disrupting service, and how they monitor performance and reliability for users over time and across devices.
+
